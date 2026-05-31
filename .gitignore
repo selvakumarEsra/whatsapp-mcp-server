@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.tsbuildinfo
+config/
+logs/
+media/
+.claude/
+.env
+.env.*
+TODO.md
